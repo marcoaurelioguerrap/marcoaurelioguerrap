@@ -1,5 +1,5 @@
 -  Hi, I’m @marcoaurelioguerrap
--  I’m interested in Finance, Risk-management, Machine Learning , GARCH , time series prediction
+-  I’m interested in Finance, Risk-management, Machine Learning , GARCH , time series prediction , data ( 'CoOl' ) representation 
 -  I’m currently learning Options Backtesting, Options Pricing methods ,SQL , Category Theory
 -  How to reach me marcoaurelioguerrap@gmail.com
 
